@@ -1,4 +1,6 @@
-# EXAMPLES 
+# Description
+
+Implementation and ploting of fractal in R.
 
 ![alt text](https://github.com/artpulsion/r_fractal/blob/master/plots/fractal_1.png)
 ![alt text](https://github.com/artpulsion/r_fractal/blob/master/plots/fractal_2.png)
